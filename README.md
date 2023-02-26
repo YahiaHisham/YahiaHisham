@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [UI Automation Practice](https://github.com/YahiaHisham/UI-Automation-Practice)
 
-- 👯 I’m looking to collaborate on [Rest Assured Automation Practice](https://github.com/YahiaHisham/RestAssured-Practice)
-
 - 👨‍💻 All of my projects are available at [https://github.com/YahiaHisham?tab=repositories](https://github.com/YahiaHisham?tab=repositories)
 
 - 💬 Ask me about **Selenium, SHAFT_Engine, Maven, TestNG, POM, Cucumber, RestAssured, JMeter,OOP**
