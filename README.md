@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/YahiaHisham?tab=repositories](https://github.com/YahiaHisham?tab=repositories)
 
-- 💬 Ask me about **Selenium, SHAFT_Engine, Maven, TestNG, POM, Cucumber, RestAssured, JMeter,OOP**
+- 💬 Ask me about **Selenium, SHAFT_Engine, Maven, TestNG, POM, Cucumber, RestAssured, JMeter,OOP **
 
 - 📫 How to reach me **yahia.hisham65@gmail.com**
 
